@@ -4,8 +4,8 @@
 |--------|         |id              o+|         |computerversion|         |--------|
 |id    o+|<--1:n-->|programm_id       |         |---------------|         |computer|         |-----|
 |titel   |         |computerversion_id|<--n:1-->|id           o+|         |--------|         |raum |
-|--------|         |------------------|         |computer_id    |<--n:1-->|id    o+|         |-----|
-                                                |erfassdatum    |         |raum_id |<--n:1-->|id o+|
+|version |         |------------------|         |computer_id    |<--n:1-->|id    o+|         |-----|
+|--------|                                      |erfassdatum    |         |raum_id |<--n:1-->|id o+|
                                                 |---------------|         |os      |         |-----|
                                                                           |ip      |
                                                                           |mac     |
