@@ -1,12 +1,4 @@
 Helferlein_Harjehusen
 =====================
 
-Software Project Computer Software Management
-
-
-SCHEDULE:
----------
-- 30.09.12 Grundgerüst DB (Gabriel)
-- 07.10.12 
-  -Formularkonzepte (Fatih²)
-  -Verfeinerung der DB (Gabriel)
+This is a Software Project for the Computer Science course at school. You can happily ignore this if you are not on of the involved.
