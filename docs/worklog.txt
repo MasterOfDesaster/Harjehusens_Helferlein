@@ -49,3 +49,15 @@ Zeitraum Herbsferien (bis einschließlich 14.10.2012):
 -Umstrukturierung vom VBA-Code und hinzuf�gen der Funktion "Delete" (Yan)
 -Bearbeiten der Kreuzabfragen (Gabriel)
 -erstellen eines Formulars zum verbinden von Programmen und Computer (Fatih D.)
+
+12.11.2012
+-Debugging, ausführbare Access (Yan)
+-Abfrage der Datenbank (Gabriel)
+-Design (Fatih D.)
+-"Programmliste"-Formular erstellt (Fatih Y.)
+
+19.11.2012
+-Erarbeitung der Funktionalität von Berichten in Microsoft Access (Fatih Y.)
+-Design-Funktion/Layout (Fatih D.)
+-Abfrage (Gabriel)
+-System-Dokumentation (Yan)
