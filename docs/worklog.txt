@@ -11,10 +11,10 @@
 26.9.2012
 Projektplanung / Aufgabenverteilung:
 -Gabriel:
->Benutzerverwaltung/ Verschl�sselung
+>Benutzerverwaltung/ Verschlüsselung
 >Versionshistorie (je nach Aufwand)
 >Export der Daten
->Grundger�st
+>Grundgerüst
 -Yan:
 Auslesen des BSs
 Auslesen der IP-Adresse, Rechnername, Mac-Adresse
@@ -31,7 +31,7 @@ Zeitraum Herbsferien (bis einschließlich 14.10.2012):
 17.10.2012:
 -Bearbeitung der Programmauslesung (Gabirel)
 -Auslesen der IP-Adresse werden erarbeitet (Yan)
--Bearbeitung der manuellen Neuanlage von R�umen (Fatih D/Y.)
+-Bearbeitung der manuellen Neuanlage von Räumen (Fatih D/Y.)
 
 22. Oktober 2012:
 - Auslesung von Name (PC), Betriebssystem, Mac-Adresse, IP-Adresse, Programme
@@ -46,7 +46,7 @@ Zeitraum Herbsferien (bis einschließlich 14.10.2012):
 -Hauptfenster erstellen (Fatih D.)
 
 07.11.2012
--Umstrukturierung vom VBA-Code und hinzuf�gen der Funktion "Delete" (Yan)
+-Umstrukturierung vom VBA-Code und hinzufügen der Funktion "Delete" (Yan)
 -Bearbeiten der Kreuzabfragen (Gabriel)
 -erstellen eines Formulars zum verbinden von Programmen und Computer (Fatih D.)
 
@@ -61,3 +61,4 @@ Zeitraum Herbsferien (bis einschließlich 14.10.2012):
 -Design-Funktion/Layout (Fatih D.)
 -Abfrage (Gabriel)
 -System-Dokumentation (Yan)
+
