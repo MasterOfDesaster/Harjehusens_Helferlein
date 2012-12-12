@@ -4,7 +4,7 @@
                                          Gabriel, Yan: interne Arbeit/Programmierung
 -github.com --> Speicherung der Arbeiten, Updates.. etc.
   '-> Admin des Projekts bei github: Yan
-  '-> Anmeldung aller Mitglieder in Projekt called "Helferlein_Harjehusen"
+  '-> Anmeldung aller Mitglieder im Projekt "Helferlein_Harjehusen"
 - Fatih Y. & Fatih D. --> Sammeln der Informationen für Erstellung von Formularen 
 - Gabriel & Yan --> Sammeln der Information zur Auslesung von Registry, Allgemein Datenbank
 
@@ -16,7 +16,7 @@ Projektplanung / Aufgabenverteilung:
 >Export der Daten
 >Grundgerüst
 -Yan:
-Auslesen des BSs
+Auslesen des OS
 Auslesen der IP-Adresse, Rechnername, Mac-Adresse
 
 Zeitraum Herbsferien (bis einschließlich 14.10.2012):
@@ -26,7 +26,7 @@ Zeitraum Herbsferien (bis einschließlich 14.10.2012):
 
 15. Oktober 2012:
 - Befehle zur Auslesung der Registry (Yan, Gabriel)
-- formalen Aufbau der Software (Fatih D. & Fatih Y.)
+- formaler Aufbau der Software (Fatih D. & Fatih Y.)
 
 17.10.2012:
 -Bearbeitung der Programmauslesung (Gabirel)
@@ -37,7 +37,7 @@ Zeitraum Herbsferien (bis einschließlich 14.10.2012):
 - Auslesung von Name (PC), Betriebssystem, Mac-Adresse, IP-Adresse, Programme
 
 27.10.2012
--Suche von Computername ReadRegestry (Yan)
+-Suche von Computername ReadRegistry (Yan)
 -Abfrage (allg.) => automatisiert mithilfe der Formulare (Gabriel)
 -Entwicklung der einzelnen Formularen (Fatih D.)
 
@@ -61,4 +61,3 @@ Zeitraum Herbsferien (bis einschließlich 14.10.2012):
 -Design-Funktion/Layout (Fatih D.)
 -Abfrage (Gabriel)
 -System-Dokumentation (Yan)
-
