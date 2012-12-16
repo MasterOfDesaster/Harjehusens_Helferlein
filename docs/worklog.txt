@@ -61,3 +61,20 @@ Zeitraum Herbsferien (bis einschließlich 14.10.2012):
 -Design-Funktion/Layout (Fatih D.)
 -Abfrage (Gabriel)
 -System-Dokumentation (Yan)
+
+
+14.11
+-Export von Datensätzen (Fatih D.)
+-Kreuzabfrage (Yan/ Gabriel)
+
+26.11
+-Abfrage und Abfrage Datensätze einfügen (Gabriel)
+-Kennwort (Fatih D.)
+-Handbuch des Programms in Stichpunkten (Fatih D.)
+-ausarbeitung des Handbuchs (Fatih Y.)
+
+5.12
+Optimierung der Kreuzabfrage (Gabriel)
+neues Formular - Computerversion (Fatih D.)
+Löschfunktion (Fatih D. & Yan)
+
